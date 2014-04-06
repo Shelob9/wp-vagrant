@@ -75,7 +75,7 @@ don't have these tools installed locally, you can just SSH into the box, and
 run the following:
 
 ```
-cd /vagrant/wordpress
+cd /wp-vagrant/wordpress
 npm install
 grunt
 ```
